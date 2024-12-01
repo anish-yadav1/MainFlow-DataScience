@@ -10,3 +10,9 @@ Write a Python program to create a list, a dictionary and a set. Perform basic o
 This task involves using the Pandas library to manipulate data.
 #### **Responsibility:**
 Load a CSV file into a Pandas DataFrame. Perform operations like filtering data based on conditions, handling missing values and calculating summary statistics.
+
+### **Task-3: Data Visualization with Matplotlib.**
+#### **Description:**
+This task involves using the Matplotlib library to visualize data.
+#### **Responsibility:**
+Create a Scatter plot, Bar chart, Line chart, Histogram and Pie chart using Matplotlib to visualize data from a Pandas DataFrames. Customize the charts with labels, titles and legends.
